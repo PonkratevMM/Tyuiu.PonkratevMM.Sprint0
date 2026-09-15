@@ -3,6 +3,11 @@
     <Project Path="Tyuiu.PonkratevMM.Sprint0.Task0.V0/Tyuiu.PonkratevMM.Sprint0.Task0.V0.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.PonkratevMM.Sprint1.Task1.V0/Tyuiu.PonkratevMM.Sprint1.Task1.V0.csproj" Id="331b3a06-64e8-4a43-97d8-1b48dc2d2f2f" />
+    <Project Path="Tyuiu.PonkratevMM.Sprint1.Task1.V0/Tyuiu.PonkratevMM.Sprint0.Task1.V0.csproj" Id="331b3a06-64e8-4a43-97d8-1b48dc2d2f2f" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.PonkratevMM.Sprint0.Task2.V0.Lib/Tyuiu.PonkratevMM.Sprint0.Task2.V0.Lib.csproj" Id="4394cc61-2b19-4f51-9469-5eab8926539b" />
+    <Project Path="Tyuiu.PonkratevMM.Sprint0.Task2.V0.Test/Tyuiu.PonkratevMM.Sprint0.Task2.V0.Test.csproj" Id="a46d424d-030c-4f72-bb30-5bdc09a5e4a3" />
+    <Project Path="Tyuiu.PonkratevMM.Sprint0.Task2.V0/Tyuiu.PonkratevMM.Sprint0.Task2.V0.csproj" Id="717a6aed-cceb-405c-99c2-928f45f7df83" />
   </Folder>
 </Solution>
